@@ -1,0 +1,64 @@
+Manifest-Version: 1.0
+Class-Path: jsr166e-1.1.0.jar jsr305-1.3.9.jar objenesis-1.2.jar Roari
+ ngBitmap-0.4.5.jar zkclient-0.3.jar jersey-server-1.9.jar mesos-0.21.
+ 0-shaded-protobuf.jar minlog-1.2.jar slf4j-log4j12-1.7.10.jar xz-1.0.
+ jar commons-net-2.2.jar commons-lang3-3.3.2.jar grizzly-http-2.1.2.ja
+ r gmbal-api-only-3.0.0-b023.jar hadoop-mapreduce-client-common-2.2.0.
+ jar hadoop-mapreduce-client-app-2.2.0.jar metrics-core-3.0.2.jar refl
+ ectasm-1.07-shaded.jar jackson-jaxrs-1.8.3.jar jaxb-api-2.2.2.jar chi
+ ll-java-0.5.0.jar akka-actor_2.10-2.3.4-spark.jar hadoop-annotations-
+ 2.2.0.jar jackson-core-asl-1.8.8.jar jersey-test-framework-grizzly2-1
+ .9.jar breeze_2.10-0.11.1.jar hamcrest-core-1.3.jar netty-3.7.0.Final
+ .jar commons-math-2.1.jar commons-beanutils-1.7.0.jar protobuf-java-2
+ .5.0.jar jopt-simple-3.2.jar quasiquotes_2.10-2.0.1.jar guava-14.0.1.
+ jar activation-1.1.jar scala-compiler-2.10.4.jar unused-1.0.0.jar zoo
+ keeper-3.4.6.jar protobuf-java-2.5.0-spark.jar jul-to-slf4j-1.7.10.ja
+ r joda-time-2.3.jar commons-cli-1.2.jar commons-digester-1.8.jar nett
+ y-all-4.0.23.Final.jar hadoop-yarn-server-common-2.2.0.jar javax.serv
+ let-3.1.jar snappy-java-1.1.1.6.jar hadoop-yarn-api-2.2.0.jar akka-sl
+ f4j_2.10-2.3.4-spark.jar jackson-mapper-asl-1.8.8.jar lz4-1.2.0.jar n
+ etty-codec-4.0.27.Final.jar jcl-over-slf4j-1.7.10.jar oro-2.0.8.jar g
+ rizzly-http-servlet-2.1.2.jar metrics-json-3.1.0.jar kryo-2.21.jar sp
+ ark-mllib_2.10-1.3.0.jar spark-catalyst_2.10-1.3.0.jar management-api
+ -3.0.0-b012.jar log4j-1.2.17.jar parquet-generator-1.6.0rc3.jar jetti
+ son-1.1.jar ivy-2.4.0.jar hadoop-mapreduce-client-core-2.2.0.jar nett
+ y-transport-4.0.27.Final.jar pyrolite-2.0.1.jar paranamer-2.6.jar com
+ mons-codec-1.3.jar commons-io-2.1.jar compress-lzf-1.0.0.jar commons-
+ httpclient-3.1.jar jetty-util-6.1.26.jar hadoop-yarn-client-2.2.0.jar
+  json4s-jackson_2.10-3.2.10.jar guice-3.0.jar jackson-module-scala_2.
+ 10-2.4.4.jar jackson-core-2.4.4.jar commons-math3-3.1.1.jar spark-net
+ work-shuffle_2.10-1.3.0.jar commons-lang-2.5.jar kafka-clients-0.8.2.
+ 2.jar commons-compress-1.4.1.jar scala-reflect-2.10.5.jar parquet-had
+ oop-1.6.0rc3.jar spark-graphx_2.10-1.3.0.jar scala-library-2.10.4.jar
+  javax.inject-1.jar json4s-core_2.10-3.2.10.jar commons-logging-1.1.1
+ .jar jackson-databind-2.4.4.jar spire-macros_2.10-0.7.4.jar netty-com
+ mon-4.0.27.Final.jar joda-convert-1.2.jar jersey-core-1.9.jar hadoop-
+ mapreduce-client-jobclient-2.2.0.jar json4s-ast_2.10-3.2.10.jar jerse
+ y-guice-1.9.jar spark-cassandra-connector_2.10-1.3.0.jar cassandra-dr
+ iver-core-2.1.8.jar hadoop-auth-2.2.0.jar spark-core_2.10-1.3.0.jar s
+ pire_2.10-0.7.4.jar parquet-column-1.6.0rc3.jar stax-api-1.0.1.jar jb
+ las-1.2.3.jar cassandra-clientutil-2.1.5.jar tachyon-client-0.5.0.jar
+  jline-0.9.94.jar grizzly-http-server-2.1.2.jar py4j-0.8.2.1.jar java
+ x.servlet-api-3.0.1.jar hadoop-client-2.2.0.jar avro-1.7.4.jar parque
+ t-format-2.2.0-rc1.jar hadoop-mapreduce-client-shuffle-2.2.0.jar bree
+ ze-macros_2.10-0.11.1.jar jets3t-0.7.1.jar jersey-grizzly2-1.9.jar ha
+ doop-yarn-common-2.2.0.jar core-1.1.2.jar spark-network-common_2.10-1
+ .3.0.jar metrics-jvm-3.1.0.jar uncommons-maths-1.2.2a.jar parquet-jac
+ kson-1.6.0rc3.jar jackson-xc-1.8.3.jar commons-configuration-1.6.jar 
+ slf4j-api-1.7.10.jar arpack_combined_all-0.1.jar chill_2.10-0.5.0.jar
+  jersey-test-framework-core-1.9.jar junit-4.12.jar netty-handler-4.0.
+ 27.Final.jar jaxb-impl-2.2.3-1.jar curator-framework-2.4.0.jar jersey
+ -client-1.9.jar scalap-2.10.0.jar kafka_2.10-0.8.2.2.jar curator-reci
+ pes-2.4.0.jar javax.servlet-3.0.0.v201112011016.jar grizzly-framework
+ -2.1.2.jar jtransforms-2.4.0.jar commons-beanutils-core-1.8.0.jar cur
+ ator-client-2.4.0.jar spark-sql_2.10-1.3.0.jar xmlenc-0.52.jar asm-3.
+ 1.jar tachyon-0.5.0.jar jackson-annotations-2.4.0.jar spark-streaming
+ _2.10-1.3.0.jar parquet-encoding-1.6.0rc3.jar parquet-common-1.6.0rc3
+ .jar netty-buffer-4.0.27.Final.jar config-1.2.1.jar opencsv-2.3.jar c
+ ommons-collections-3.2.1.jar hadoop-common-2.2.0.jar stream-2.7.0.jar
+  metrics-core-3.1.0.jar jersey-json-1.9.jar hadoop-hdfs-2.2.0.jar met
+ rics-graphite-3.1.0.jar jodd-core-3.6.3.jar akka-remote_2.10-2.3.4-sp
+ ark.jar aopalliance-1.0.jar metrics-core-2.2.0.jar spark-cassandra-co
+ nnector-java_2.10-1.3.0.jar grizzly-rcm-2.1.2.jar
+Main-Class: com.gait.KafkaConsumerGroup
+
